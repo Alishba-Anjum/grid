@@ -1,0 +1,27 @@
+
+.row{
+    height: 400px;
+    background-color:black;
+    
+}
+.one{
+    background-color: green;
+    height: 300px;
+}
+.two{
+    background-color: orange;
+    height: 300px;
+}
+.three .row{
+    background-color: rgb(160, 107, 107);
+    height: 300px;
+    
+}
+.four{
+    background-color: rgb(87, 69, 35);
+    height: 150px;
+}
+.five{
+    background-color: rgb(63, 44, 9);
+    height: 150px;
+}
